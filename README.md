@@ -1,3 +1,4 @@
+![lista de tarefas](https://github.com/danibenfica/todo-list/assets/103818625/ecc3c186-f318-44be-8c8b-3c074308f489)
 
 # Lista de Tarefas
 
